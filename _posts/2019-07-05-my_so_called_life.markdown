@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "My So Called Life"
-date:       2019-07-05 12:35:51 +0000
+date:       2019-07-05 08:35:52 -0400
 permalink:  my_so_called_life
 ---
 
