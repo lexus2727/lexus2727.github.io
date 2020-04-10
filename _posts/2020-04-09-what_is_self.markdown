@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "What is "self"?"
-date:       2020-04-10 01:07:12 +0000
+date:       2020-04-09 21:07:13 -0400
 permalink:  what_is_self
 ---
 
