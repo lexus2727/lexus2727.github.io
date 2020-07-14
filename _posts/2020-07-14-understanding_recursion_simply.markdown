@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Understanding Recursion, Simply"
-date:       2020-07-14 20:03:15 +0000
+date:       2020-07-14 16:03:16 -0400
 permalink:  understanding_recursion_simply
 ---
 
@@ -43,8 +43,8 @@ f(45) = 5 + f(4)
 f(4) = 4 + 0 (stop here)
 So,
 f(456) = 6 + f(45)
-f(45) = 6 + 5 + f(4)
-f(4) = 6 + 5 + 4
+f(456) = 6 + 5 + f(4)
+f(456) = 6 + 5 + 4
 Notice how we’re using the function object to break down the data structure to add the sum.
 This example shows the sum() recursive function:
 Image for post
